@@ -46,7 +46,7 @@ python -m pip install -e .
 Install directly from GitHub:
 
 ```bash
-python -m pip install "git+https://github.com/<user>/<repo>.git"
+python -m pip install "git+https://github.com/AlexKost70/Amnezia-IP-Convert.git"
 ```
 
 ## Usage
